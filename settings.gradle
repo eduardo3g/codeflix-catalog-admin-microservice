@@ -1,2 +1,5 @@
 rootProject.name = 'codeflix-catalog-admin-microservice'
+include 'domain'
+include 'application'
+include 'infrastructure'
 
